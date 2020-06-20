@@ -1,6 +1,8 @@
 div.jumbotron {
-background-image: url(https://www.charlottenewsvt.org/wp-content/uploads/2018/03/books.jpg)
-
+background-image: url(https://www.charlottenewsvt.org/wp-content/uploads/2018/03/books.jpg);
+background-position: center; 
+  background-repeat: no-repeat; 
+  background-size: cover;
 }
 
 .white{
